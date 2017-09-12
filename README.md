@@ -5,7 +5,7 @@
 
 ##### 03.checkPalindrome [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/checkPalindrome.java)
 ##### 04.adjacentElementsProduct [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/adjacentElementsProduct.java)
-##### 05.shapeArea [link]()
-##### 06.makeArrayConsecutive2 [link]()
-##### 07.almostIncreasingSequence [link]()
-##### 08.matrixElementsSum [link]()
+##### 05.shapeArea [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/shapeArea.java)
+##### 06.makeArrayConsecutive2 [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/makeArrayConsecutive2.java)
+##### 07.almostIncreasingSequence [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/almostIncreasingSequence.java)
+##### 08.matrixElementsSum [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/matrixElementsSum.java)
