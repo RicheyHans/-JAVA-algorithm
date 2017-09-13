@@ -9,3 +9,6 @@
 ##### 06.makeArrayConsecutive2 [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/makeArrayConsecutive2.java)
 ##### 07.almostIncreasingSequence [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/almostIncreasingSequence.java)
 ##### 08.matrixElementsSum [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/matrixElementsSum.java)
+##### 09.allLongestStrings [link]()
+##### 10.commonCharacterCount [link]()
+##### 11.isLucky [link]()
