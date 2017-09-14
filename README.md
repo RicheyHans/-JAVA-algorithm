@@ -12,4 +12,4 @@
 ##### 09.allLongestStrings [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/allLongestStrings.java)
 ##### 10.commonCharacterCount [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/commonCharacterCount.java)
 ##### 11.isLucky [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/isLucky.java)
-##### 12.sortByHeight [link]()
+##### 12.sortByHeight [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/sortByHeight.java)
