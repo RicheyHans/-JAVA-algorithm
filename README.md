@@ -1,7 +1,11 @@
 # [JAVA] Algorithm Training Quiz
+
+
 자바 알고리즘 퀴즈 풀이
 ***
 ## CodeFights
+
+
 ##### 01.add [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/add.java)
 ##### 02.centuryFromYear [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/centuryFromYear.java)
 ##### 03.checkPalindrome [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/checkPalindrome.java)
