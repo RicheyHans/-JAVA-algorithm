@@ -20,3 +20,5 @@
 ##### 12.sortByHeight [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/sortByHeight.java)
 ##### 13.reverseParentheses(_pending_) [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/reverseParentheses.java)
 ##### 14.alternatingSums [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/alternatingSums.java)
+##### 15.addBoarder [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/addBorder.java)
+##### 16.areSimilar? [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/areSimilar.java)
