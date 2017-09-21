@@ -23,3 +23,6 @@
 ##### 15.addBoarder [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/addBorder.java)
 ##### 16.areSimilar? [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/areSimilar.java)
 ##### 17.arrayChange [link](https://github.com/RicheyHans/-JAVA-algorithm/blob/master/codefights/arrayChange.java)
+##### 18.palindromeRearranging [link]()
+##### 19.areEquallyStrong [link]()
+##### 20.arrayMaximalAdjacentDifference [link]()
